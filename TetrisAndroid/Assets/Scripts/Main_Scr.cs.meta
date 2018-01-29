@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 2c883d9266831e84fac1d396c904b2f1
+timeCreated: 1515960010
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - myCamera: {instanceID: 0}
+  - mainMat: {instanceID: 0}
+  - CubePref: {instanceID: 0}
+  - Box: {instanceID: 0}
+  - myFirstDot: {instanceID: 0}
+  - mySecondDot: {instanceID: 0}
+  - TextLevel: {instanceID: 0}
+  - TextName: {instanceID: 0}
+  - TextSc: {instanceID: 0}
+  - can: {instanceID: 0}
+  - sliderLevel: {instanceID: 0}
+  - ButtonNewGame: {instanceID: 0}
+  - ButtonPrevScene: {instanceID: 0}
+  - text: {fileID: 1422537176112560, guid: b04cab3c47e7aa94c87ea51a9c3e1d81, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
